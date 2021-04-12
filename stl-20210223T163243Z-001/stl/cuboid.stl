@@ -1,0 +1,86 @@
+solid Untitled-53896bba
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 118.99999999999999 60.39999999999999 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 60.39999999999999 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 118.99999999999999 60.39999999999999 0.0
+    vertex 118.99999999999999 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 118.99999999999999 0.0 19.799999999999997
+    vertex 0.0 60.39999999999999 19.799999999999997
+    vertex 0.0 0.0 19.799999999999997
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 0.0 60.39999999999999 19.799999999999997
+    vertex 118.99999999999999 0.0 19.799999999999997
+    vertex 118.99999999999999 60.39999999999999 19.799999999999997
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 60.39999999999999 19.799999999999997
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 19.799999999999997
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 60.39999999999999 19.799999999999997
+    vertex 0.0 60.39999999999999 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 0.0 60.39999999999999 19.799999999999997
+    vertex 118.99999999999999 60.39999999999999 0.0
+    vertex 0.0 60.39999999999999 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 118.99999999999999 60.39999999999999 0.0
+    vertex 0.0 60.39999999999999 19.799999999999997
+    vertex 118.99999999999999 60.39999999999999 19.799999999999997
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 118.99999999999999 60.39999999999999 0.0
+    vertex 118.99999999999999 0.0 19.799999999999997
+    vertex 118.99999999999999 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 118.99999999999999 0.0 19.799999999999997
+    vertex 118.99999999999999 60.39999999999999 0.0
+    vertex 118.99999999999999 60.39999999999999 19.799999999999997
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 118.99999999999999 0.0 19.799999999999997
+    vertex 0.0 0.0 0.0
+    vertex 118.99999999999999 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 118.99999999999999 0.0 19.799999999999997
+    vertex 0.0 0.0 19.799999999999997
+  endloop
+endfacet
+endsolid Untitled-53896bba
